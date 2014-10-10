@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/joaobiriba/Documents/Projects/corsoAndroid/de.vogella.android.asynctask/app/build/intermediates/pre-dexed/debug/gson-2.2.4-1e9eb495b619bb8d4438a35681f02af5ff4b4414.jar"
+        jar="/Users/joaobiriba/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+
+</pre-dex-items>

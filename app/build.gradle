@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "20.0.0"
+
+    defaultConfig {
+        applicationId "de.vogella.android.asyntask"
+        minSdkVersion 9
+        targetSdkVersion 9
+    }
+
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        compile 'com.google.code.gson:gson:2.2.4'
+    }
+}

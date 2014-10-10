@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/joaobiriba/Documents/Projects/corsoAndroid/de.vogella.android.asynctask/app/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/joaobiriba/Documents/Projects/corsoAndroid/de.vogella.android.asynctask/app/src/debug/assets" />
+    </dataSet>
+
+</merger>
